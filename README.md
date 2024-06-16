@@ -37,6 +37,7 @@ Train dataset has been used to train the model and calculate the mentioned 4 par
 ## Screenshots
 ### Dataset
 ![dataset](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture1.jpg)
+
 ![ASD](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture2.jpg)
                         
 
