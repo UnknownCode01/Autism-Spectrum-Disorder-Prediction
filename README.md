@@ -1,4 +1,4 @@
-## Autism-Spectrum-Disorder-Prediction
+# Autism-Spectrum-Disorder-Prediction
 This repository contains code for many machine learning models designed to predict Autism-Spectrum-Disorder-Prediction with high accuracy and compare them to findout the best model.
 
 ## How it Works
@@ -11,6 +11,7 @@ The adolescent dataset contains 104 records, with 63 classified as ASD and 41 as
 The adult dataset comprises 704 records, with 189 classified as ASD and 515 as non-ASD.<br>
 Overall, there are 21 features, including 10 questions related to behavioral information (A1-A10), 10 demographic attributes, and one class label indicating ASD prediction.
 ### Properties
+
 i) A1_Score to A10_Score: Scores derived from the Autism Spectrum Quotient (AQ) 10-item screening tool.<br>
 ii) age: Patient's age in years.<br>
 iii) gender: Patient's gender.<br>
@@ -44,21 +45,21 @@ Train dataset has been used to train the model and calculate the mentioned 4 par
 ![system architecture](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture3.jpg)
 
 ### Comparison of Accuracy
-![accuracy](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction_Model/blob/main/Screenshots/Picture4.jpg)
+![accuracy](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture4.jpg)
 
 ### Comparison of Precision
-![precision](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction_Model/blob/main/Screenshots/Picture5.jpg)
+![precision](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture5.jpg)
 
 ### Comparison of Recall
-![recall](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction_Model/blob/main/Screenshots/Picture6.jpg)
+![recall](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture6.jpg)
 
 ### Comparison of F1-Score
-![f1-score](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction_Model/blob/main/Screenshots/Picture7.jpg)
+![f1-score](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture7.jpg)
 
 ### Comparison of Performance
-![performance for no asd](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction_Model/blob/main/Screenshots/Picture8.jpg)
+![performance for no asd](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture8.jpg)
 
-![performance for asd](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction_Model/blob/main/Screenshots/Picture9.jpg)
+![performance for asd](https://github.com/UnknownCode01/Autism-Spectrum-Disorder-Prediction/blob/main/Screenshots/Picture9.jpg)
 
 
 
