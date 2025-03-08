@@ -81,7 +81,7 @@ Please adhere to this project's `During your interaction with the project, make 
 
 
 ## Known Issues
-Accuracy: the highest accuracy from various model is 83.75%.
+Accuracy: the highest accuracy from various model is 91.67%.
 
 ## Future Update
 We are continuously working to improve the Autism-Spectrum-Disorder-Prediction. Future updates may include enhancements to the model architecture, optimization of training procedures, and integration of additional datasets for improved performance.
